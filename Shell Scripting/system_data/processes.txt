@@ -1,0 +1,3 @@
+  PID TTY           TIME CMD
+10660 ttys004    0:00.46 /bin/zsh -il
+15199 ttys004    0:00.01 /bin/bash ./system_info.sh
