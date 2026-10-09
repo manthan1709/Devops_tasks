@@ -1,1 +1,1 @@
-![HostPath Volume](screenshots/R.png)
+![R](screenshots/R.png)
